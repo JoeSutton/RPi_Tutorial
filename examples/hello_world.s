@@ -17,4 +17,4 @@ _exit:
 	SWI 0               @ execute syscall
 
 .data
-print_str:  .asciz "Hello World-- with changes!\n"
+print_str:  .asciz "Hello Worlds!\n"
